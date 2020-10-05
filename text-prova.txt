@@ -1,2 +1,3 @@
 Fitxer de text de prova per l'exercici de Git.
 Modificació a la branca master.
+Modificat a branch1.
