@@ -1,1 +1,2 @@
 Fitxer de text de prova per l'exercici de Git.
+Modificat a branch1.
